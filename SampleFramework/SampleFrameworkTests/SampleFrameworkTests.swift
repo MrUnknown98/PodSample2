@@ -5,7 +5,7 @@
 //  Created by Sakthivel on 04/10/21.
 //
 
-import XCTest
+/*import XCTest
 @testable import SampleFramework
 
 class SampleFrameworkTests: XCTestCase {
@@ -29,5 +29,4 @@ class SampleFrameworkTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
-
-}
+}*/
